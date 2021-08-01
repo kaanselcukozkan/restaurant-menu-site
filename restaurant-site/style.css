@@ -1,0 +1,285 @@
+.menu-bar {
+    width: 100%;
+    height: 15%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    
+}
+
+.menu-content-area {
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 68.15px;
+    background-color: white;
+}
+
+
+.menu-padding {
+    padding: 16px !important;
+}
+
+.menu-button {
+    float: left;
+    font-size: 24px;
+    cursor: pointer;
+    font-family:'Karma', serif;
+    color: #000!important;
+}
+
+.menu-button:hover {
+    background-color: #D3D3D3;
+}
+
+.menu-mail {
+    float: right;
+    font-size: 24px;
+    color: #000!important;
+    font-family:'Karma', serif;
+}
+
+.menu-center {
+    text-align: center;
+    font-size: 24px;
+    font-family:'Karma', serif;
+    color: #000!important;
+}
+
+.res-content {
+    max-width: 1200px;
+    height: 2620px;
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 8px 16px;
+    
+}
+
+.fimage-content {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+    width: 1152px;
+    height: 590px;
+    padding: 16px 8px;
+}
+
+.image-content {
+     width:23%;
+    padding: 0px 8px;
+    height: 565px;   
+}
+
+h3 {
+    font-family: 'Karma', serif;
+    font-weight: 400;
+    margin: 10px 0;
+    font-size: 24px;
+    text-align: center;
+}
+
+p {
+    margin: 15px 0px;
+    font-size: 15px;
+    font-family:'Karma', serif;
+    text-align: center;
+} 
+
+.fimage-content-2 {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+    width: 1152px;
+    height: 565px;
+    padding: 16px 8px;
+}
+
+.content3 {
+    padding-top: 32px;
+    padding-bottom: 32px;
+    text-align: center;
+    width: 1168px;
+    height: 46px;
+}
+
+.content-bar {
+    width: 234.387px;
+    height: 38.400px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+   
+    
+}
+
+
+a{
+    text-decoration: none;
+}
+
+.blog-bar1 {
+    font-size: 15px;
+    padding:8px 16px;
+    font-family:'Karma', serif;
+    cursor: pointer;
+ 
+}
+
+.blog-bar1:hover {
+    background-color: #000;
+    color: white;
+}
+
+.blog-bar2 {
+    font-size: 15px;
+    padding:8px 16px;
+    font-family:'Karma', serif;
+    cursor: pointer;
+    background-color: black;
+    color: white;
+}
+
+.blog-bar2:hover {
+    background-color: #D3D3D3;
+   color: black;
+}
+
+.blog-bar3 {
+    font-size: 15px;
+    padding:8px 16px;
+    font-family:'Karma', serif;
+    cursor: pointer;
+    color: black;
+}
+
+.blog-bar3:hover {
+    background-color: black;
+    color: white;
+}
+
+hr {
+    border: 0;
+    border-top: 1px solid #eee;
+    margin: 20px 0;
+    box-sizing: content-box;
+    height: 0;
+    overflow: visible;
+}
+
+.content4 {
+    padding: 32px 16px ;
+    width: 1136px;
+    height: 846px;
+    
+}
+
+h4 {
+font-family:'Karma', serif ;
+font-weight: 400;
+margin: 10px 0;
+font-size: 20px;
+text-align: center;
+}
+
+h6 {
+    font-weight: 400;
+    font-style: italic;
+    font-family: 'Karma', serif;
+    font-size: 16px;
+    text-align: center;
+    margin: 10px 0;
+}
+
+.footer-content {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+    padding:32px 8px;
+    width: 1152px;
+    height: 218px;
+}
+
+.ft-content {
+    padding: 0 8px;
+    width: 31%;
+    height: 180px;
+    
+   
+}
+
+.SJ {
+    text-decoration-line: underline;
+
+}
+
+.SJ:hover {
+    color: black;
+}
+
+.ss {
+    width: 367px;
+    height: 162px;
+}
+
+li {
+    padding: 16px 16px ;
+    border: 1px solid #D3D3D3;
+    list-style-type: none;
+    cursor:auto;
+    width: 335px;
+    height: 48px;
+  
+}
+
+li:hover {
+    background-color: #D3D3D3;
+}
+
+.ut {
+    font-size: 18px;
+    font-family: 'Karma', serif;
+    position:relative;
+    bottom: 35px;
+    left: 5px;
+}
+
+.uts {
+    font-size: 15px;
+    font-family: 'Karma', serif;
+    position: relative;
+    bottom: 15px;
+    left: -50px;
+}
+
+
+
+.ft-content2 {
+    padding: 0 60px;
+    width: 31%;
+    height: 180px;
+}
+
+
+
+.tag-1 {
+    color:white;
+    background-color: black;
+    margin-bottom: 16px;
+    padding:0px 8px;
+    font-size:15px;
+    font-family: 'Karma', serif;
+    
+}
+
+.tag-2 {
+    background-color: #616161;
+    color: white;
+    margin-bottom: 16px;
+    font-size: 12px;
+    font-family: 'Karma', serif;
+    padding:0px 8px;
+ 
+}
